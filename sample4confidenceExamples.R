@@ -207,7 +207,7 @@ sample4confidence(r1 = c(.15,.20,.35),
 # Scenario 1d: 
 # Same user-set weights and testing against zero: what-if we test against r2 = .05
 # as a minimum benchmark
-# r1 = inputs; r2 = benhhmark
+# r1 = inputs; r2 = benchmark
 
 sample4confidence(r1 = c(.15,.20,.35), 
                   n1 = c(100, 200, 20),
